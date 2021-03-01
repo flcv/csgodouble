@@ -2,9 +2,13 @@
 
 ## TL;DR
 **What:** A CSGO gambling bot
+
 **When:** November(?) 2016
+
 **Why:** Personal amusement
+
 **How:** Python 2.7
+
 **Development time (approx.):** 2-3 days / 6-8 hours
 
 ## Longform
